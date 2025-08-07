@@ -85,17 +85,15 @@ The dashboard was designed with business users in mind — enabling quick insigh
 ## 📁 File Structure
 
 📦 credit-card-dashboard/
-├── README.md
-├── Credit Card Txn Dashboard.pdf
-├── Dataset.xlsx (Not uploaded here)
-├── Dashboard.pbix (Optional)
-└── images/
-├── page1_preview.png
-└── page2_preview.png
-
-yaml
-Copy
-Edit
+* README.md
+* Credit Card Txn Dashboard.pdf
+* Dataset.xlsx
+* Data.SQL
+* Dashboard.pbix
+ 
+- images/
+* page1_preview.png
+* page2_preview.png
 
 ---
 
