@@ -84,22 +84,18 @@ The dashboard was designed with business users in mind — enabling quick insigh
 
 ## 📁 File Structure
 
-<pre> credit-card-transaction-analysis/
-├── 
-├── data/
-│   └── credit_card_transactions.csv
-│
-├── SQL/
-│   └── cleaned_data.sql
-│
-├── PowerBI/
-│   └── dashboard.pbix
-│
-├── images/
-│   ├── dashboard_page1.png
-│   └── dashboard_page2.png
-│
-└── README.md  <pre>
+📦 credit-card-dashboard/
+* README.md
+* Credit Card Txn Dashboard.pdf
+* Dataset.xlsx
+* Data.SQL
+* Dashboard.pbix
+ 
+- images/
+* page1_preview.png
+* page2_preview.png
+  
+---
 
 ---
 
@@ -110,6 +106,7 @@ The dashboard was designed with business users in mind — enabling quick insigh
 - Building dynamic visuals with slicers and drill-through  
 - Calculating DAX measures (Avg Transaction, Spend %, etc.)  
 - Designing an intuitive Power BI UI for non-technical users  
+ 
 
 ---
 
@@ -120,4 +117,4 @@ I'm passionate about exploring real-world data and turning it into meaningful in
 
 ---
 
-Thanks for checking out this project!
+Thanks for checking out this project! 
